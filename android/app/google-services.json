@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446454194587",
+    "project_id": "email-and-password-auth-80762",
+    "storage_bucket": "email-and-password-auth-80762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446454194587:android:de6934b8dcd4539597c13e",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446454194587-rr9c7cnp7r1i075rfdnj1ov6pee21rq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaC3euXbF0KEnSajlGOA8A4hhJ3H_5rEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446454194587-rr9c7cnp7r1i075rfdnj1ov6pee21rq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
